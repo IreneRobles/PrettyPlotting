@@ -2,3 +2,7 @@ name = "PrettyPlotting"
 uuid = "a39d01c8-e809-492b-946e-4fa293b4c7e6"
 authors = ["Irene Robles Rebollo <irenerobles93@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
