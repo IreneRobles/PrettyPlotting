@@ -1,0 +1,4 @@
+name = "PrettyPlotting"
+uuid = "a39d01c8-e809-492b-946e-4fa293b4c7e6"
+authors = ["Irene Robles Rebollo <irenerobles93@gmail.com>"]
+version = "0.1.0"
